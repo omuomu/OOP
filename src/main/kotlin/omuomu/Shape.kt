@@ -1,5 +1,5 @@
 package omuomu
 
 interface Shape {
-    public fun contains(point: Point): Boolean
+    public fun contains(p: Point): Boolean
 }
